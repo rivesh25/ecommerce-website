@@ -37,7 +37,7 @@ A premium, high-performance ecommerce web application built with a focus on mode
 
 2. Navigate to the project directory:
    ```bash
-   cd ecommerce-with-mern
+   cd ecommerce-website
    ```
 
 3. Install dependencies:
